@@ -54,31 +54,48 @@ https://cvilleschools.onshape.com/documents/106531b2735f50f685dd9a3a/w/8945d6d6c
 
 ### Reflection
 
----
+This assignment was much easier than the first one, just becuase I had a mouse, and I'm getting used to usin onshape. The video directions are very helpful, and I having fun designing things. 
 
+---
 
 ## Fork
 
 ### Description
 
+The fork is a pretty cool design where you use tons of different features, such as filet. The base of the fork is a circle with 80 mm diameter.
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/3e3cda82d636bccc5404a591/w/4fb784fb44d59ac0bfcd84d9/e/89f60731470a9c672151e2a2
 
 ### Image
 
+![TheFork](https://user-images.githubusercontent.com/71407064/95595399-1dc7e880-0a1a-11eb-8965-ca1ff62b3d28.png)
+
 ### Reflection
 
----
+Honestly this assignemnt was not hard at all, Dr shields videos once again made it super easy. It was cool using some new stuff such as filet that we haven't used as well. 
 
+---
 
 ## Tire
 
 ### Description
 
+The tire is an interesting design because we revolves it. It has two dimensions on the right, that go into nothing, but that's how you demonstrate that you want t extrude this design.
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/8bc15f92010498497814232c/w/41d0171605c039d33b71e762/e/53cc0fd2aee4715a955566c1
 
 ### Image
 
+![Screenshot 2020-10-05 at 3 55 49 PM](https://user-images.githubusercontent.com/71407064/95596136-04736c00-0a1b-11eb-9522-123fada3f844.png)
+
+
 ### Reflection
+
+This was a fun assigment that took a couple tries for me, but I got it eventually. I'm still really enjoying onshape and designign the castor. 
 
 ---
 
