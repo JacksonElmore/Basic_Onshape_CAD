@@ -95,7 +95,7 @@ https://cvilleschools.onshape.com/documents/8bc15f92010498497814232c/w/41d017160
 
 ### Reflection
 
-This was a fun assigment that took a couple tries for me, but I got it eventually. I'm still really enjoying onshape and designign the castor. 
+This was a fun assigment that took a couple tries for me, but I got it eventually. I'm still really enjoying onshape and designing the castor. 
 
 ---
 
