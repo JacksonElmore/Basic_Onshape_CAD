@@ -104,11 +104,20 @@ This was a fun assigment that took a couple tries for me, but I got it eventuall
 
 ### Description
 
+The wheel starts with 3 rectangle sketches, then gets revolved, and becomes a wheel! It has spokes as well.
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/bd14e3844abcc0bfecf5a726/w/d10ad9ab5283237d2d19b93b/e/8a87d323e8ff5daa3a69631a
 
 ### Image
 
+![Screenshot 2020-10-14 at 3 35 02 PM](https://user-images.githubusercontent.com/71407064/96037890-688b9b00-0e34-11eb-940e-596b4e36cb61.png)
+
+
 ### Reflection
+
+This assignment took me a couple tries, but once I figured it out it was easy. One thing to remember is that sometimes you need to fully restart and follow everything he does to get it right. 
 
 ---
 
