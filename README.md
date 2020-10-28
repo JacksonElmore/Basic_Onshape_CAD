@@ -66,7 +66,7 @@ The fork is a pretty cool design where you use tons of different features, such 
 
 ### Evidence
 
-https://cvilleschools.onshape.com/documents/3e3cda82d636bccc5404a591/w/4fb784fb44d59ac0bfcd84d9/e/89f60731470a9c672151e2a2
+[LinkToFork](https://cvilleschools.onshape.com/documents/3e3cda82d636bccc5404a591/w/4fb784fb44d59ac0bfcd84d9/e/89f60731470a9c672151e2a2)
 
 ### Image
 
@@ -86,7 +86,7 @@ The tire is an interesting design because we revolves it. It has two dimensions 
 
 ### Evidence
 
-https://cvilleschools.onshape.com/documents/8bc15f92010498497814232c/w/41d0171605c039d33b71e762/e/53cc0fd2aee4715a955566c1
+[LinkToTire](https://cvilleschools.onshape.com/documents/8bc15f92010498497814232c/w/41d0171605c039d33b71e762/e/53cc0fd2aee4715a955566c1)
 
 ### Image
 
@@ -108,7 +108,7 @@ The wheel starts with 3 rectangle sketches, then gets revolved, and becomes a wh
 
 ### Evidence
 
-https://cvilleschools.onshape.com/documents/bd14e3844abcc0bfecf5a726/w/d10ad9ab5283237d2d19b93b/e/8a87d323e8ff5daa3a69631a
+[LinkToWheel](https://cvilleschools.onshape.com/documents/bd14e3844abcc0bfecf5a726/w/d10ad9ab5283237d2d19b93b/e/8a87d323e8ff5daa3a69631a)
 
 ### Image
 
