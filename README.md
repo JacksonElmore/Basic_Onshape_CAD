@@ -126,10 +126,18 @@ This assignment took me a couple tries, but once I figured it out it was easy. O
 
 ### Description
 
+The axlecollarbearing is a 3 part assignment, first you make the axle, then you put on the collar, and finally attach the bearing by using on old part, the wheel.
+
 ### Evidence
+
+I could not log into onshape for some reason, but the part is finished 
 
 ### Image
 
+I could not log into onshape for some reason, so I couldnt take the screenshot, but it's finished 
+
 ### Reflection
+
+This part was really tricky for me, I was almost finished, but I could not figure out a part about the collar. So I restarted and focused on following Dr.Sheilds step by step, it worked!
 
 ---
