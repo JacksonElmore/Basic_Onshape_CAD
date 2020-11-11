@@ -149,14 +149,20 @@ This part was really tricky for me, I was almost finished, but I could not figur
 
 ### Description 
 
+The Sub Assemby is just a wheel and axle with bearing attached. You mate all these parts together.
+
 ### Evidence 
+
+[LinktoSubAssembly](https://cvilleschools.onshape.com/documents/358b3da9c1b1eeddd437f5f5/w/16fcb1812f3578708e4e53b7/e/423b25c14825ac523a69710b)
 
 ### Image
 
+![Screenshot 2020-11-11 at 4 01 15 PM](https://user-images.githubusercontent.com/71407064/98863958-248db500-2437-11eb-9666-d717d774ff21.png)
 
 
 ### Reflection
 
+This assignment was quite easy once I figured out some small problmes that I had with the mates. 
 
 ---
 
