@@ -132,6 +132,7 @@ The axlecollarbearing is a 3 part assignment, first you make the axle, then you 
 ### Evidence
 
 [LinktoAxleCollarBearing](https://cvilleschools.onshape.com/documents/addc7aedcbccc854038108bb/w/4bcbf20c8a9f611be95b9c80/e/6c34806afd9cb9463fbe5b62)
+
 ### Image
 
 ![Screenshot 2020-11-03 at 12 49 56 PM](https://user-images.githubusercontent.com/71407064/98022045-1a364000-1dd3-11eb-8dab-9a23524cdc5b.png)
@@ -142,3 +143,20 @@ The axlecollarbearing is a 3 part assignment, first you make the axle, then you 
 This part was really tricky for me, I was almost finished, but I could not figure out a part about the collar. So I restarted and focused on following Dr.Sheilds step by step, it worked!
 
 ---
+
+
+## SubAssembly
+
+### Description 
+
+### Evidence 
+
+### Image
+
+
+
+### Reflection
+
+
+---
+
